@@ -1,2 +1,2 @@
 # amazon-linux-gpg
-Building new version of gpg from source
+Building newer gpg version from source
